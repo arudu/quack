@@ -1,0 +1,46 @@
+body {
+    background: white;
+    font-size: 15px;
+    
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: min(90%, 100em);
+    margin-inline: auto;
+    border: 2px solid red;
+}
+
+.poo2 {
+    height: 15rem;
+    width: 15rem;
+}
+
+.top {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    width: min(90%, 100em);
+}
+
+.poo3 {
+    height:2.5rem;
+}
+
+input {
+    width: 30rem;
+    height: 2rem;
+}
+
+.poo {
+    height: 20px;
+    width: 20px;
+}
+
+.inner {
+    color: blue;
+}
